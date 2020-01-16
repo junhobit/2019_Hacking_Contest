@@ -3,4 +3,3 @@
 - But connection will soon become unavailable because i use university's cloud service.
 - After graduate, hosting will be disconnect
 
-![Problem](/2019/Web/password/password.PNG)
