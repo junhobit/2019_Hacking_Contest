@@ -1,0 +1,20 @@
+<?php
+$answer = $_GET["password"];
+if( htmldecode(urldecode($answer)) == "password")
+{
+echo flag();
+}
+else if("password"==$answer)
+{
+        echo "Don't you think it's too easy?<br>No answer<br><br>";
+        echo "Hint : <a href='view-source.txt'>view-source</a>";
+}
+else if(empty($answer) and empty($_GET["pasword"]))
+{
+echo "";
+}
+else
+{
+echo "<br>That's wrong!";
+}
+?>

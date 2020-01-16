@@ -1,3 +1,5 @@
-## This repository is 2019 Hacking Contest (CTF) Problems
-1. Crypto
-2. Web 4
+## Hacking Contest (CTF) repository
+1. 2018 hacking contest. 
+- 3rd place write-up
+2. 2019 hacking contest. 
+- making problems
